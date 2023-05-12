@@ -1,0 +1,7 @@
+*.log*
+.nitro
+.cache
+.output
+.env
+dist
+.DS_Store
