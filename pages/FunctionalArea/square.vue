@@ -6,7 +6,7 @@
           <n-list-item>
             <template #prefix>
 <!--              <img src="../../assets/pictures/images.jpg" class="space-x-1" alt="啥也没有">-->
-              <img :src='picture+action.name' class="space-x-1 h-28 w-28" alt="啥也没有">
+              <img :src='picture+action.name' class="space-x-1 h-28 w-28" alt="你把图片上传就可以看到了">
             </template>
             <template #suffix class="mt-9">
               <!--              参加活动-->
@@ -70,7 +70,7 @@
         <n-card title="志愿活动" hoverable class="mt-3 bg-slate-100 rounded-lg" title-placement="left">
           <n-list-item>
             <template #prefix>
-              <img :src="picture+action.name" class="space-x-1 h-28 w-28" alt="啥也没有">
+              <img :src="picture+action.name" class="space-x-1 h-28 w-28" alt="你把图片上传就可以看到了">
             </template>
             <template #suffix class="mt-9">
               <!--              参加活动-->

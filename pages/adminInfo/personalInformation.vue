@@ -119,7 +119,7 @@ const menuOptions = [
         "修改密码"
     ),
     key: 'a-wild-sheep-chase',
-    disabled: false,
+    disabled: true,
     icon: renderIcon(BookIcon)
   },
   {
