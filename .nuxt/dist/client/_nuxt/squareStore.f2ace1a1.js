@@ -1,0 +1,1 @@
+import{bv as r,r as e}from"./entry.23c03e9b.js";const i=r("squareStore",()=>{const o=e([{beginTime:null,belongingAdimit:"",id:"",lateTime:null,location:"",maxpeople:"",name:"",time:""}]),t=e({actionId:""}),n=e();return{squareStore:o,action:t,Boolean:n}});export{i as u};
